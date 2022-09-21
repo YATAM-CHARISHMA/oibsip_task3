@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image:url(temp.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+table{
+  background-color: #507fb3;
+}
+h1{
+  font-size: 40px;
+}
